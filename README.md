@@ -14,4 +14,7 @@
 ## Database
 
 * [OLAP와 OLTP 정리](https://sda1547.gitbook.io/data-engineering/database/olap-oltp)
+* [ETL과 ELT 정리](https://app.gitbook.com/@sda1547/s/data-engineering/)
+
+
 
