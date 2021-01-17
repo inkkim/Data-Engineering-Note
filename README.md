@@ -25,4 +25,5 @@
 ## Network
 
 * [TCP/IP 4계층](https://sda1547.gitbook.io/data-engineering/network/tcp-ip-4)
+* [네트워크 용어](https://sda1547.gitbook.io/data-engineering/network/undefined)
 
